@@ -658,7 +658,7 @@ class FSAM(nn.Module):
 
         self.fc = nn.Sequential(
             nn.Linear(in_channels, in_channels, bias=False),
-            nn.ReLU(inplace=True),
+            nn.LeakyReLU(0.2, inplace=True),
             nn.Linear(in_channels, in_channels, bias=False),
             nn.Sigmoid()
         )
