@@ -6,7 +6,8 @@ We propose ViD-EnlightenGAN, an unsupervised learning model for low-light video 
 **Key Features:**
 - Temporal Omni-Dynamic Inverted Attention Module (TODIAM) for generating an adaptive attention map
 - Frame-Stable Attention Module (FSAM) for enhancing inter-frame consistency
-- Global-Local Temporal Discriminators with brightness constraints
+- Global-Local Temporal Discriminators with temporal consistency modeling
+- Global-Local Temporal Brightness Discriminators with brightness distribution constraints
 - Superior performance on SDSD dataset (PSNR: 23.711 dB, SSIM: 0.695)
 
 ## Dataset
