@@ -10,9 +10,7 @@ We propose ViD-EnlightenGAN, an unsupervised learning model for low-light video 
 - Superior performance on SDSD dataset (PSNR: 23.711 dB, SSIM: 0.695)
 
 ## Dataset
-We use the **SDSD Dataset** for  comprehensive low-light video enhancement research.
-
-Official Website: [SDSD Dataset](https://github.com/dvlab-research/SDSD)
+We use the **[SDSD Dataset](https://github.com/dvlab-research/SDSD)** for  comprehensive low-light video enhancement research.
 
 We also use the [DRV](https://github.com/cchen156/Seeing-Motion-in-the-Dark?tab=readme-ov-file) and [Loli-Phone](https://github.com/Li-Chongyi/Lighting-the-Darkness-in-the-Deep-Learning-Era-Open) datasets to compare the generalization study of real videos.
 
