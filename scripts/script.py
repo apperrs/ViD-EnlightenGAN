@@ -55,5 +55,5 @@ elif opt.predict:
                 --self_attention \
                 --times_residual \
 	        	--instance_norm 0 --resize_or_crop='no'\
-	        	--which_epoch 425")
+	        	--which_epoch 500")
 
