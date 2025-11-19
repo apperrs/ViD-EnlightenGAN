@@ -9,7 +9,7 @@ parser.add_argument("--predict", action='store_true')
 opt = parser.parse_args()
 
 if opt.train:
-	os.system("/home/xueyijie/文档/EnlightenGAN-modify/EnlightenGAN-master/.venv/bin/python3 train.py \
+	os.system("python3 train.py \
 		--dataroot ./datasets/outdoor \
 		--no_dropout \
 		--name enlightening \
@@ -41,7 +41,7 @@ if opt.train:
 
 elif opt.predict:
 	for i in range(1):
-		os.system("/home/xueyijie/文档/EnlightenGAN-modify/EnlightenGAN-master/.venv/bin/python3 predict.py \
+		os.system("python3 predict.py \
 	        	--dataroot ./datasets/outdoor/ \
 	        	--name enlightening \
 	        	--model single \
