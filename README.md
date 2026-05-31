@@ -42,9 +42,9 @@ python3 scripts/script.py --predict
 - **Global-Local Temporal Discriminators:** The discriminators from EnlightenGAN are adapted into a temporal framework to effectively leverage information from consecutive frames.
 - **Global-Local Temporal Brightness Discriminators:** An additional discriminator is proposed to constrain both the overall brightness distribution and local lighting conditions, thereby facilitating natural brightness transitions and preserving details
 - **Unsupervised Learning Framework:** Based on EnlightenGAN, effectively handles dynamic low-light scenes without requiring paired training data
-
+<!--
 ## 📬 Contact
 
 For inquiries, collaborations, or feedback:  
-<!-- ✉️ [Email the maintainer](mailto:apperrs@gmail.com) --> 
-💻 Open to contributions and research collaborations  
+ ✉️ [Email the maintainer](mailto:apperrs@gmail.com) 
+💻 Open to contributions and research collaborations  --> 
