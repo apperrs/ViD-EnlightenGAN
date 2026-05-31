@@ -46,5 +46,5 @@ python3 scripts/script.py --predict
 ## 📬 Contact
 
 For inquiries, collaborations, or feedback:  
-✉️ [Email the maintainer](mailto:apperrs@gmail.com)  
+<!-- ✉️ [Email the maintainer](mailto:apperrs@gmail.com) --> 
 💻 Open to contributions and research collaborations  
