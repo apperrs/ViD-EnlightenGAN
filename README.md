@@ -44,4 +44,4 @@ python3 scripts/script.py --predict
 - **Unsupervised Learning Framework:** Based on EnlightenGAN, effectively handles dynamic low-light scenes without requiring paired training data
 
 ## License
-This project is licensed under the [MIT License](https://github.com/apperrs/ViD-EnlightenGAN/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/apperrs/ViD-EnlightenGAN/blob/master/LICENSE).
