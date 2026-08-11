@@ -1,4 +1,20 @@
 #     ViD-EnlightenGAN
+**[paper](https://ieeexplore.ieee.org/document/11556131)**
+
+## Citation
+If you find this project useful in your research, please consider citing:
+```bibtex
+@ARTICLE{11556131,
+  author={Zhang, Heng and Xue, Yijie and Liu, Yanli and Ye, Yiwen and Jiang, Hao and Shu, Feng and Chen, Zhimin},
+  journal={IEEE Internet of Things Journal}, 
+  title={ViD-EnlightenGAN: A Temporally Aware GAN for Unsupervised Low-Light Video Enhancement}, 
+  year={2026},
+  volume={13},
+  number={16},
+  pages={36887-36901},
+  keywords={Lighting;Videos;Brightness;Modeling;Visualization;Internet of Things;Convolution;Generators;Sequential analysis;Educational institutions;Attention mechanism;generative adversarial networks;interframe consistency;low-light enhancement;video enhancement},
+  doi={10.1109/JIOT.2026.3701729}}
+```
 
 ## Overview
 We propose ViD-EnlightenGAN, an unsupervised learning model for low-light video enhancement.
