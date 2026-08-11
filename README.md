@@ -1,4 +1,4 @@
-#     ViD-EnlightenGAN
+#     ViD-EnlightenGAN: A Temporally Aware GAN for Unsupervised Low-Light Video Enhancement
 **[paper](https://ieeexplore.ieee.org/document/11556131)**
 
 ## Citation
